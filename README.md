@@ -4,7 +4,7 @@ This is an experiment in response to a
 [thread](http://thread.gmane.org/gmane.comp.lang.swift.evolution/4640)
 on the swift-evolution mailing list.
 
-Breeze is an incubator for the Swift standard library.
+Breeze is a community incubator for the Swift standard library.
 
 ## What goes in the Breeze?
 
@@ -20,22 +20,19 @@ and another for audio processing. If they use different implementations
 of complex numbers then you're stuck doing a lot of copying or unsafe
 casting.
 
-A pseudo random number generator is needed for Swift. The Breeze is a
-great place to begin work on one. There's no reason for something like
-this to be linked to a Swift release or require building Swift from source.
-It can be worked on casually until it's good enough to be merged into the
-next release of Swift.
+## How do I participate?
 
-## How do I get my project in the Breeze?
-
-Post your idea on the [swift-evolution mailing list]
+Post your idea on the
+[swift-users mailing list]
+(https://lists.swift.org/mailman/listinfo/swift-users)
+or
+[swift-evolution mailing list]
 (https://lists.swift.org/mailman/listinfo/swift-evolution).
 If the response is generally positive, create an issue in this project.
 Include a gmane link to the thread for reference.
 
-The process isn't formalized yet. If it looks like there's two-thirds in
-favor, it will be so. It's pretty much whatever I decide at this point.
-When there's a bunch of projects here, the project leaders will create a
+For now, if it looks like there's two-thirds in favor, it will be so.
+When there's a few projects here, the project leaders will create a
 formal process by committee.
 
 ## Copyright Transfer
